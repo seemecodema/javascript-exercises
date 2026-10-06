@@ -15,6 +15,8 @@ const birthYear = 1947;
 
 const greeting = "Hello! My name is Carlos Stevenson and I am 18 years old."
 
+const fullName = "firstName + lastName";
+const age = "thisYear - birthYear";
 
 
 
